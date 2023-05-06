@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Aldemar 👋 👨‍🔧 💻
+
+[![Imagen1-1.jpg](https://i.postimg.cc/3RstNdmY/Imagen1-1.jpg)](https://postimg.cc/vgvrS80N)
+
 
 <!--
 **aldemarbr94/aldemarbr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
