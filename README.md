@@ -2,6 +2,10 @@
 
 [![Imagen1-1.jpg](https://i.postimg.cc/3RstNdmY/Imagen1-1.jpg)](https://postimg.cc/vgvrS80N)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <!--
 **aldemarbr94/aldemarbr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
